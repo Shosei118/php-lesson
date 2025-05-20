@@ -1,0 +1,8 @@
+ファイル構成
+├── config.php
+├── connection.php
+├── edit.php
+├── functions.php
+├── index.php
+├── new.php
+└── store.php
